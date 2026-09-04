@@ -1,0 +1,13 @@
+@import "tailwindcss";
+
+@theme {
+  --color-store-peach: #fbbf97;
+  --color-store-apricot: #fce1b6;
+  --color-store-cream: #fffce1;
+  --color-store-blue: #cde6fa;
+}
+
+body {
+  color: #171717;
+  font-family: Arial, Helvetica, sans-serif;
+}
