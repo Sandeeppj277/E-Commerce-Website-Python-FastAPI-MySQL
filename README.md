@@ -6,7 +6,7 @@ An online fashion store built with a modern web technology stack, providing a pl
 
 Live Website: Visit Online Fashion Store
 
-> The live links will be updated after the final deployment and verification.
+> (https://fashion-store-frontend-qgpg.vercel.app/)
 
 ---
 
