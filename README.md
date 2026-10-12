@@ -4,11 +4,7 @@ An online fashion store built with a modern web technology stack, providing a pl
 
 ## 🌐 Live Demo
 
-**Live Website:** [Add your live website URL here]
-
-**Backend API:** [Add your Render API URL here]
-
-**API Documentation:** [Add your Render API URL here]/docs
+Live Website: Visit Online Fashion Store
 
 > The live links will be updated after the final deployment and verification.
 
@@ -235,10 +231,3 @@ A license has not yet been specified. Add an appropriate license file if you int
 
 ---
 
-## 🔗 Final Live Links
-
-**Live Frontend:** `Add your Vercel URL here`
-
-**Backend API:** `Add your Render URL here`
-
-**Interactive API Documentation:** `Add your Render URL here/docs`
